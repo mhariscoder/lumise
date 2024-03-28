@@ -1,0 +1,184 @@
+# Copyright (C) 2022 King-Theme
+# This file is distributed under the same license as the Lumise - Product Designer Tool plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Lumise - Product Designer Tool 2.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/lumise\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-05-17T01:37:11+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: lumise\n"
+
+#. Plugin Name of the plugin
+msgid "Lumise - Product Designer Tool"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.lumise.com/"
+msgstr ""
+
+#. Description of the plugin
+msgid "The professional solution for designing & printing online"
+msgstr ""
+
+#. Author of the plugin
+msgid "King-Theme"
+msgstr ""
+
+#: core/admin/pages/addons.php:49
+msgid "Enter your purchase code to activate the addon"
+msgstr ""
+
+#: core/admin/pages/addons.php:51
+#: core/admin/pages/addons.php:52
+#: core/admin/pages/addons.php:53
+msgid "Enter your license now"
+msgstr ""
+
+#: core/admin/pages/addons.php:98
+msgid "Addon settings"
+msgstr ""
+
+#: core/admin/pages/addons.php:114
+msgid "Only support"
+msgstr ""
+
+#: core/admin/pages/bugs.php:39
+#: core/admin/pages/categories.php:14
+#: core/admin/pages/cliparts.php:91
+#: core/admin/pages/designs.php:57
+#: core/admin/pages/fonts.php:57
+#: core/admin/pages/languages.php:50
+#: core/admin/pages/printings.php:60
+#: core/admin/pages/products.php:60
+#: core/admin/pages/shapes.php:50
+#: core/admin/pages/shares.php:69
+#: core/admin/pages/tags.php:54
+#: core/admin/pages/templates.php:80
+msgid "Please Insert Key Word"
+msgstr ""
+
+#: core/admin/pages/license.php:50
+msgid "License verification"
+msgstr ""
+
+#: core/admin/pages/license.php:51
+msgid "License addon bundle"
+msgstr ""
+
+#: core/admin/pages/license.php:53
+msgid "License addon vendor"
+msgstr ""
+
+#: core/admin/pages/license.php:56
+msgid "License addon printful"
+msgstr ""
+
+#: core/admin/pages/order.php:13
+msgid "Search Product Name"
+msgstr ""
+
+#: core/admin/pages/orders.php:16
+msgid "Search Order Id"
+msgstr ""
+
+#: core/cart.php:997
+msgid "Checkout Error"
+msgstr ""
+
+#: core/cart.php:1001
+msgid "Looks like an error has occurred, please notify the administrator."
+msgstr ""
+
+#: core/includes/main.php:178
+msgid "Lumise design"
+msgstr ""
+
+#: core/includes/main.php:181
+msgid "Browser will direct in 5 second"
+msgstr ""
+
+#: includes/admin/class-lumise-admin-hooks.php:62
+msgid "Lumise Configuration"
+msgstr ""
+
+#: includes/admin/class-lumise-admin-hooks.php:265
+#: includes/admin/class-lumise-admin-menus.php:76
+#: includes/admin/class-lumise-admin-menus.php:77
+msgid "Settings"
+msgstr ""
+
+#: includes/admin/class-lumise-admin-hooks.php:276
+#: includes/admin/class-lumise-admin-hooks.php:277
+msgid "View Lumise docs"
+msgstr ""
+
+#: includes/admin/class-lumise-admin-hooks.php:276
+msgid "Documentation"
+msgstr ""
+
+#: includes/admin/class-lumise-admin-hooks.php:277
+msgid "Lumise Blog"
+msgstr ""
+
+#: includes/admin/class-lumise-admin-hooks.php:278
+msgid "Visit premium customer support"
+msgstr ""
+
+#: includes/admin/class-lumise-admin-hooks.php:278
+msgid "Premium support"
+msgstr ""
+
+#: includes/admin/class-lumise-admin-hooks.php:387
+msgid "Design Editor Page"
+msgstr ""
+
+#: includes/admin/class-lumise-admin-hooks.php:405
+msgid "Assigned Lumise Product"
+msgstr ""
+
+#: includes/admin/class-lumise-admin-menus.php:33
+msgid "Lumise"
+msgstr ""
+
+#: includes/admin/class-lumise-admin-menus.php:45
+msgid "Dashboard"
+msgstr ""
+
+#: includes/admin/class-lumise-admin-menus.php:52
+#: includes/admin/class-lumise-admin-menus.php:53
+msgid "Orders"
+msgstr ""
+
+#: includes/admin/class-lumise-admin-menus.php:60
+#: includes/admin/class-lumise-admin-menus.php:61
+msgid "Addons"
+msgstr ""
+
+#: includes/admin/class-lumise-admin-menus.php:68
+#: includes/admin/class-lumise-admin-menus.php:69
+msgid "Help"
+msgstr ""
+
+#: includes/class-lumise-frontend.php:250
+msgid "Edit Design"
+msgstr ""
+
+#: includes/class-lumise-frontend.php:430
+#: includes/class-lumise-frontend.php:1280
+msgid "Customize"
+msgstr ""
+
+#: includes/class-lumise-frontend.php:1213
+msgid "Product"
+msgstr ""
+
+#: includes/class-lumise-frontend.php:1214
+msgid "View Design"
+msgstr ""
